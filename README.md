@@ -1,4 +1,4 @@
-# Adidas-Shoes-Sales-Analysis
+# Nike-Sales-Dashboard
 
 ## Project Objective:
 The primary objective of this project is to create a visually captivating Power BI dashboard focused on analyzing sales of Adidas shoes. 
