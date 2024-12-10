@@ -15,17 +15,17 @@ In line with the objectives and project requirements, I have utilized Power BI, 
 This Power BI dashboard comprises three distinct pages, each tailored to provide comprehensive insights based on the dataset and user requests.
 
 ### 1. Overview Page:
-![Screenshot 2024-05-12 080324](https://github.com/user-saddam123/Adidas-Shoes-Sales-Analysis/assets/123800896/2e376b2a-a254-4b11-80b7-9891a37271ac)
+![Screenshot 2024-05-12 080324](https://github.com/Rajacharya1/Nike-Sales-Dashboard/blob/main/Data%20resources/Screenshot%202024-12-10%20225740.png)
 
 The first page, "Overview," offers users a quick glance at the overall sales data of Adidas shoes. Here, users can effortlessly navigate through various shoes to get a brief overview of each product.
 
 ### 2. Insights Page:
-![2](https://github.com/user-saddam123/Adidas-Shoes-Sales-Analysis/assets/123800896/0827e022-51e1-457f-9c9c-0d580af9d324)
+![2](https://github.com/Rajacharya1/Nike-Sales-Dashboard/blob/main/Data%20resources/Screenshot%202024-12-10%20225811.png)
 
 On the "Insights" page, users can delve deeper into specific products of interest. This page displays detailed information such as sales price, average rating, reviews, and listing price for the selected shoe. It provides users with a comprehensive understanding of each product's performance metrics.
 
 ### 3. Performance Page:
-![3](https://github.com/user-saddam123/Adidas-Shoes-Sales-Analysis/assets/123800896/074a4095-7d79-47bb-8b07-77340439621e)
+![3](https://github.com/Rajacharya1/Nike-Sales-Dashboard/blob/main/Data%20resources/Screenshot%202024-12-10%20225839.png)
 
 Serving as the cornerstone of this dashboard, the "Performance" page offers users a holistic view of the insights gathered. Here, users can explore in-depth analyses of various performance indicators for each shoe, enabling them to make informed decisions based on the data presented.
 
